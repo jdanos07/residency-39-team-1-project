@@ -13,7 +13,7 @@
 
 ## Tech Stack
 - **Frontend:** React, TypeScript, Firebase, Auth0
-- **Backend:** Python/Flask, Node.js
+- **Backend:** Firebase/Firestore
 - **Database:** PostgreSQL, MongoDB, MySQL
 - **Deployment:** AWS, Heroku
 
